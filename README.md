@@ -41,9 +41,9 @@ To show how routine antenatal data can be turned into a quick view of who is at 
 
 ## Tools
 Power BI Desktop, including:
-- **Power Query** — data cleaning and calculated columns (anaemia flag, ANC visit bands, distance bands, age bands, custom risk sort order)
-- **DAX** — custom measures powering every KPI card and chart
-- **Custom report theme** — a colour-blind-accessible theme built from scratch and applied across both pages
+- **Power Query** - data cleaning and calculated columns (anaemia flag, ANC visit bands, distance bands, age bands, custom risk sort order)
+- **DAX** - custom measures powering every KPI card and chart
+- **Custom report theme** - a colour-blind-accessible theme built from scratch and applied across both pages
 
 ## Files
 - `maternal_risk_dashboard.pbix`: the Power BI report
